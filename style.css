@@ -7,4 +7,28 @@ body {
     color: #b91818;
   }
   
+  body {
+    font-family: "Open Sans", sans-serif;
+  }
   
+  h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-top: 0;
+  }
+  
+  h2 {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    font-size: 1.4rem;
+    font-weight: bold;
+  }
+  
+  p {
+    line-height: 1.5;
+    margin-bottom: 15px;
+  }
